@@ -28,7 +28,7 @@ If this is your first foray into open source, check out [this awesome resource](
 
  Run `git status` to check the changes that have been made
  
- Run `git add contributors.md` to stage the file
+ Run `git add Contributors.md` to stage the file
  
  Run `git commit -m 'add <name> to file'`  (using your name in place of `<name>`)
   
