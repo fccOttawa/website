@@ -6,9 +6,9 @@
 
 - [Mike MacDougall](https://github.com/mgmacdougall)
 
-- [Gabe R] (https://github.com/gaber85)
+- [Gabe R](https://github.com/gaber85)
 
-- [Danstj] (https://github.com/danstj)
+- [Danstj](https://github.com/danstj)
 
 - [Eric Adamski](https://github.com/ericadamski) 
 
