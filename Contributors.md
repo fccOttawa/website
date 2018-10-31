@@ -12,4 +12,6 @@
 
 - [Eric Adamski](https://github.com/ericadamski) 
 
+- [Andrew Lowe](https://github.com/alowe613) 
+
 
