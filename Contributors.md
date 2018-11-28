@@ -12,4 +12,6 @@
 
 - [Eric Adamski](https://github.com/ericadamski) 
 
--[Sarah McCue](https://github.com/SarahMcQ)
+- [Sarah McCue](https://github.com/SarahMcQ)
+
+- [Alex Pettie](https://github.com/kingspider)
