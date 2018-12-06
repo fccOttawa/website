@@ -14,4 +14,6 @@
 
 - [Sarah McCue](https://github.com/SarahMcQ)
 
+- [Andrew Lowe](https://github.com/alowe613) 
+
 - [Alex Pettie](https://github.com/kingspider)
