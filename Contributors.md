@@ -17,3 +17,5 @@
 - [Andrew Lowe](https://github.com/alowe613) 
 
 - [Alex Pettie](https://github.com/kingspider)
+
+- [Alex Monteiro](https://github.com/alexjmcm)
